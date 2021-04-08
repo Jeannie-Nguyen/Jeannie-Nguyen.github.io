@@ -23,7 +23,7 @@ Vietnam, Nov 2012 - Apr 2014
 
 ### EDUCATION
 UNIVERSITY OF OULU    
-Finland • Sep 2018 - Jul 2020\    
+Finland • Sep 2018 - Jul 2020      
 MSc. Financial and Management Accounting, GPA: 5 out of 5  
 -	Scholarships: Oulu City Internationalisation 2019 & Tuition Fee
 

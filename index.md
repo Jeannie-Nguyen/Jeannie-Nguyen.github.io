@@ -1,4 +1,5 @@
-# Profile
+# PROFILE
+
 ## PROFESSIONAL EXPERIENCE  
 SENIOR PRODUCT EXECUTIVE @ VNG CORPORATION  
 Vietnam, Jul 2015 - Apr 2017
@@ -19,6 +20,7 @@ Vietnam, Nov 2012 - Apr 2014
 -	Cooperating with the HR department in managing related processes
 -	Supporting business trips abroad: planning, booking & reporting
 
+
 ### EDUCATION
 UNIVERSITY OF OULU    
 Finland • Sep 2018 - Jul 2020\    
@@ -35,6 +37,7 @@ DOUBLE DEGREE PROGRAM - ISS & UNIVERSITY OF ECONOMICS HO CHI MINH CITY (UEH, ACC
 Vietnam • Nov 2016 - Dec 2018  
 MA. Development Economics, GPA: 85.5 out of 100
 -	Highest GPA class 2017-2018 & Best Master's Thesis class 2018
+
 
 #### SKILLS
 Job-related skills
@@ -59,6 +62,7 @@ Language skills
 -	English: professional
 -	Vietnamese: native 
 -	Dutch: elementary
+
 
 ##### HOBBIES
 -	Playing the piano      

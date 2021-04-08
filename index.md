@@ -2,7 +2,7 @@
 </p>
 
 ## CONTACT  
-<p valign="bottom"> <img src="https://github.com/Jeannie-Nguyen/Jeannie-Nguyen.github.io/blob/gh-pages/mail-142.png"/> : han_nguyen@outlook.com  
+<p valign="bottom"> <img src="mail-142.png"/> : han_nguyen@outlook.com  
 <p valign="bottom"> <img src="https://github.com/Jeannie-Nguyen/Jeannie-Nguyen.github.io/blob/gh-pages/linkedin-logo-2430.png"/> : https://www.linkedin.com/in/hanntn/
 
 <p align="center">  <img width="200" src="https://media-exp1.licdn.com/dms/image/C4E03AQFDNsngv24NZA/profile-displayphoto-shrink_800_800/0/1605970575447?e=1623283200&v=beta&t=IsfgyV_2IsbXCOs0AX18Z3OGWsB997xy4edhD_Gj36c"/>

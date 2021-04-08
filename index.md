@@ -38,7 +38,7 @@ _MA. Development Studies, GPA: 81 out of 100_
 -	Full grants by Erasmus+
 -	Contributing one essay to best essays compendium (2017/18)
 
-**DOUBLE DEGREE PROGRAM - ISS & UNIVERSITY OF ECONOMICS HO CHI MINH CITY (UEH, ACCREDITED BY FIBAA)** 
+**DOUBLE DEGREE PROGRAM - ISS & UNIVERSITY OF ECONOMICS HO CHI MINH CITY (UEH, ACCREDITED BY FIBAA)**   
 _Vietnam • Nov 2016 - Dec 2018_  
 _MA. Development Economics, GPA: 85.5 out of 100_
 -	Highest GPA class 2017-2018 & Best Master's Thesis class 2018

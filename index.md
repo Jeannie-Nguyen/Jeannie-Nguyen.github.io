@@ -2,8 +2,8 @@
 </p>
 
 ## CONTACT  
-<p valign="middle"> <img width="30" src="mail-142.png"/> han_nguyen@outlook.com 
-<p valign="middle"> <img width="30" src="linkedin-logo-2430.png"/> https://www.linkedin.com/in/hanntn/ 
+<p valign="middle"> <img width="30" style="margin-bottom:-12px" src="mail-142.png"/> han_nguyen@outlook.com 
+<p valign="middle"> <img width="30" style="margin-bottom:-12px" src="linkedin-logo-2430.png"/> https://www.linkedin.com/in/hanntn/ 
 <p valign="middle"> <img width="30" style="margin-bottom:-12px" src="iconfinder_house_299061.png"/> Leeuwarden, the Netherlands
   
 

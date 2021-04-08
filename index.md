@@ -3,7 +3,7 @@
 ## CONTACT  
 <p valign="middle"> <img width="30" style="margin-bottom:-5px" src="mail-142.png"/> han_nguyen@outlook.com</p>
 <p valign="middle"> <img width="30" style="margin-bottom:-5px" src="linkedin-logo-2430.png"/> https://www.linkedin.com/in/hanntn/</p> 
-<p valign="middle"> <img width="30" style="margin-bottom:-8px" src="iconfinder_house_299061.png"/> Leeuwarden, the Netherlands</p>
+<p valign="middle"> <img width="33" style="margin-bottom:-8px" src="iconfinder_house_299061.png"/> Leeuwarden, the Netherlands</p>
   
 
 ## PROFESSIONAL EXPERIENCE  

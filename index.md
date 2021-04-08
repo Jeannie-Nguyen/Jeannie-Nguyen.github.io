@@ -2,9 +2,9 @@
 </p>
 
 ## CONTACT  
-<p valign="middle"> <img width="25" src="mail-142.png"/> han_nguyen@outlook.com 
-<p valign="middle"> <img width="25" src="linkedin-logo-2430.png"/> https://www.linkedin.com/in/hanntn/
-<p valign="middle"> <img width="25" src="iconfinder_house_299061.png"/> Leeuwarden, the Netherlands
+<p valign="middle"> <img width="30" src="mail-142.png"/> han_nguyen@outlook.com 
+<p valign="middle"> <img width="30" src="linkedin-logo-2430.png"/> https://www.linkedin.com/in/hanntn/
+<p valign="middle"> <img width="30" src="iconfinder_house_299061.png"/> Leeuwarden, the Netherlands
   
 
 <p align="center">  <img width="200" src="https://media-exp1.licdn.com/dms/image/C4E03AQFDNsngv24NZA/profile-displayphoto-shrink_800_800/0/1605970575447?e=1623283200&v=beta&t=IsfgyV_2IsbXCOs0AX18Z3OGWsB997xy4edhD_Gj36c"/>

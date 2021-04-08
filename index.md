@@ -1,4 +1,4 @@
-# PROFILE
+![Hammond](https://github.com/Jeannie-Nguyen/Jeannie-Nguyen.github.io./blob/gh-pages/Hammond%20Icon.png)
 
 <p align="center">  <img width="200" src="https://media-exp1.licdn.com/dms/image/C4E03AQFDNsngv24NZA/profile-displayphoto-shrink_800_800/0/1605970575447?e=1623283200&v=beta&t=IsfgyV_2IsbXCOs0AX18Z3OGWsB997xy4edhD_Gj36c"/>
 </p>  

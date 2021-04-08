@@ -73,5 +73,6 @@ _MA. Development Economics, GPA: 85.5 out of 100_
 -	Writing calligraphy
 - Reading crime novels
 
-**This is Hammond, btw**
+
 ![Branching](https://images.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt343cd4d768ced9c2/5cf15ded425980470abcaabd/wrecking-ball-screenshot-003.jpg?auto=webp)
+**This is Hammond, btw**

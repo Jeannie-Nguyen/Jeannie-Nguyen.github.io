@@ -1,9 +1,9 @@
-<p align="left"> <img src="https://scontent-amt2-1.xx.fbcdn.net/v/t1.15752-9/170396588_284876413145505_1685596574698702488_n.png?_nc_cat=111&ccb=1-3&_nc_sid=58c789&_nc_ohc=U7DwPBHsKU4AX9HtWGC&_nc_ht=scontent-amt2-1.xx&oh=a10b11b97017a7ebf95979fd699e7779&oe=60932C9A"/>
+<p align="left"> <img src="Hammond Icon.png"/>
 </p>
 
 ## CONTACT  
 <p valign="bottom"> <img src="mail-142.png"/> : han_nguyen@outlook.com  
-<p valign="bottom"> <img src="https://github.com/Jeannie-Nguyen/Jeannie-Nguyen.github.io/blob/gh-pages/linkedin-logo-2430.png"/> : https://www.linkedin.com/in/hanntn/
+<p valign="bottom"> <img src="linkedin-logo-2430.png"/> : https://www.linkedin.com/in/hanntn/
 
 <p align="center">  <img width="200" src="https://media-exp1.licdn.com/dms/image/C4E03AQFDNsngv24NZA/profile-displayphoto-shrink_800_800/0/1605970575447?e=1623283200&v=beta&t=IsfgyV_2IsbXCOs0AX18Z3OGWsB997xy4edhD_Gj36c"/>
 </p>  

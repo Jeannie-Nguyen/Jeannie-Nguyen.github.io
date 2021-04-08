@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://github.com/Jeannie-Nguyen/Jeannie-Nguyen.github.io/blob/gh-pages/Hammond%20Icon.png"/>
+<p align="left"> <img src="https://scontent-amt2-1.xx.fbcdn.net/v/t1.15752-9/170396588_284876413145505_1685596574698702488_n.png?_nc_cat=111&ccb=1-3&_nc_sid=58c789&_nc_ohc=U7DwPBHsKU4AX9HtWGC&_nc_ht=scontent-amt2-1.xx&oh=a10b11b97017a7ebf95979fd699e7779&oe=60932C9A"/>
 </p>
 
 ## CONTACT  

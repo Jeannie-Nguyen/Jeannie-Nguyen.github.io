@@ -44,7 +44,7 @@ _MA. Development Economics, GPA: 85.5 out of 100_
 
 
 ## SKILLS
-###**Job-related skills**
+### **Job-related skills**
 -	Effective financial forecasting and accurate reporting
 -	Critical and analytical reviewing of budget plans
 -	Convincing and comprehensive presentations of financial analyses
@@ -52,17 +52,17 @@ _MA. Development Economics, GPA: 85.5 out of 100_
 -	Proven project management skills
 -	Solid understanding of international accounting standards (IFRS)
 
-###**Organisational and personal skills**
+### **Organisational and personal skills**
 -	Methodical organisational skills and effective stakeholder management gained through working as an assistant to a Department Head
 -	Reliable time management skills and proven capability of working under pressure
 
-###**Digital skills**
+### **Digital skills**
 -	Proficient in Microsoft Office, with extensive experience using Excel and PowerPoint
 -	Adequate skills and experience in Oracle ERP, EBS (Purchasing), and SAP
 -	Adept skills and experience with statistics software (Stata, EViews and SAS)
 -	Basic skills in Python programming
 
-###**Language skills**
+### **Language skills**
 -	English: professional
 -	Vietnamese: native 
 -	Dutch: elementary

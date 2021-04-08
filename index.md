@@ -28,18 +28,18 @@ _Vietnam, Nov 2012 - Apr 2014_
 ### EDUCATION
 **UNIVERSITY OF OULU**    
 _Finland • Sep 2018 - Jul 2020_      
-MSc. Financial and Management Accounting, GPA: 5 out of 5  
+_MSc. Financial and Management Accounting, GPA: 5 out of 5_  
 -	Scholarships: Oulu City Internationalisation 2019 & Tuition Fee
 
 **INTERNATIONAL INSTITUTE OF SOCIAL STUDIES (ISS) - ERASMUS UNIVERSITY ROTTERDAM**  
 _The Netherlands • Jan 2018 - Dec 2018_  
-MA. Development Studies, GPA: 81 out of 100
+_MA. Development Studies, GPA: 81 out of 100_
 -	Full grants by Erasmus+
 -	Contributing one essay to best essays compendium (2017/18)
 
 **DOUBLE DEGREE PROGRAM - ISS & UNIVERSITY OF ECONOMICS HO CHI MINH CITY (UEH, ACCREDITED BY FIBAA)** 
 _Vietnam • Nov 2016 - Dec 2018_  
-MA. Development Economics, GPA: 85.5 out of 100
+_MA. Development Economics, GPA: 85.5 out of 100_
 -	Highest GPA class 2017-2018 & Best Master's Thesis class 2018
 
 

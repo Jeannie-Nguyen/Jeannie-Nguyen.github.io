@@ -43,16 +43,17 @@
 <i>Finland • Sep 2018 - Jul 2020</i><br><i>MSc. Financial and Management Accounting, GPA: 5 out of 5</i>  
   
 * Thesis: <a href="http://jultika.oulu.fi/Record/nbnfioulu-202008212847">The impacts of stricter bank supervisions and regulations on external audit in the European banking system</a></p>
-  ** Used panel-data analyses on various types of financial data from banks
-  ** Used Difference-in-Differences estimations to discover the impact of SSM 
-
+  o Used panel-data analyses on various types of financial data from banks<br>
+  o Used Difference-in-Differences estimations to discover the impact of SSM
 *	Scholarships: Oulu City Internationalisation 2019 & Tuition Fee
 </details>
 
 <details>
   <summary>INTERNATIONAL INSTITUTE OF SOCIAL STUDIES (ISS) - ERASMUS UNIVERSITY ROTTERDAM</summary>  
 <i>The Netherlands • Jan 2018 - Dec 2018</i><br><i>MA. Development Studies, GPA: 81 out of 100</i>
-  
+* Thesis: <a href="https://thesis.eur.nl/pub/46627">The macroeconomic impact of stricter capital requirements in VN</a></p>
+  o	Used panel-data analyses on a wide range of macroeconomic data<br>
+  o	Used VECM to estimate impulse responses of macroeconomic factors to a shock of capital adequacy ratio, and long-run relations amongst them 
 *	Full grants by Erasmus+
 *	Contributing one essay to best essays compendium (2017/18)
 </details>

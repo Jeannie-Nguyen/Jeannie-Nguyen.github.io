@@ -79,7 +79,7 @@
 -	Reliable time management skills and proven capability of working under pressure
 </details>
 
-<details><summary>Digital Skill</summary>
+<details><summary>Digital Skills</summary>
 
 -	Proficient in Microsoft Office, with extensive experience using Excel and PowerPoint
 -	Adequate skills and experience in Oracle ERP, EBS (Purchasing), and SAP

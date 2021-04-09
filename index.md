@@ -2,7 +2,7 @@
 
 ## CONTACT  
 <p valign="middle"> <img width="30" style="margin-bottom:-5px" src="mail-142.png"/> han_nguyen@outlook.com</p>
-<p valign="middle"> <img width="30" style="margin-bottom:-5px" src="linkedin-logo-2430.png"/> <a href="url">https://www.linkedin.com/in/hanntn/</a></p> 
+<p valign="middle"> <img width="30" style="margin-bottom:-5px" src="linkedin-logo-2430.png"/> <a href="https://www.linkedin.com/in/hanntn/">https://www.linkedin.com/in/hanntn/</a></p> 
 <p valign="middle"> <img width="33" style="margin-bottom:-8px" src="iconfinder_house_299061.png"/> Leeuwarden, the Netherlands</p>
   
 ## PROFESSIONAL EXPERIENCE
@@ -42,6 +42,10 @@
   <summary>UNIVERSITY OF OULU</summary>    
 <i>Finland • Sep 2018 - Jul 2020</i><br><i>MSc. Financial and Management Accounting, GPA: 5 out of 5</i>  
   
+* Thesis: <a href="http://jultika.oulu.fi/Record/nbnfioulu-202008212847">The impacts of stricter bank supervisions and regulations on external audit in the European banking system</a></p>
+  o	Used panel-data analyses on various types of financial data from banks
+  o	Used Difference-in-Differences estimations to discover the impact of SSM 
+
 *	Scholarships: Oulu City Internationalisation 2019 & Tuition Fee
 </details>
 

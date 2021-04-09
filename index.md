@@ -40,7 +40,7 @@
 ## EDUCATION
 <details>
   <summary>UNIVERSITY OF OULU</summary>    
-<i>Finland • Sep 2018 - Jul 2020</i>      
+<i>Finland • Sep 2018 - Jul 2020</i>  
 <i>MSc. Financial and Management Accounting, GPA: 5 out of 5</i>  
   
 *	Scholarships: Oulu City Internationalisation 2019 & Tuition Fee

@@ -40,16 +40,14 @@
 ## EDUCATION
 <details>
   <summary>UNIVERSITY OF OULU</summary>    
-<i>Finland • Sep 2018 - Jul 2020</i><br>  
-<i>MSc. Financial and Management Accounting, GPA: 5 out of 5</i>  
+<i>Finland • Sep 2018 - Jul 2020</i><br><i>MSc. Financial and Management Accounting, GPA: 5 out of 5</i>  
   
 *	Scholarships: Oulu City Internationalisation 2019 & Tuition Fee
 </details>
 
 <details>
   <summary>INTERNATIONAL INSTITUTE OF SOCIAL STUDIES (ISS) - ERASMUS UNIVERSITY ROTTERDAM</summary>  
-<i>The Netherlands • Jan 2018 - Dec 2018</i><br>
-<i>MA. Development Studies, GPA: 81 out of 100</i>
+<i>The Netherlands • Jan 2018 - Dec 2018</i><br><i>MA. Development Studies, GPA: 81 out of 100</i>
   
 *	Full grants by Erasmus+
 *	Contributing one essay to best essays compendium (2017/18)

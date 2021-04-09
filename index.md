@@ -38,6 +38,7 @@ _Vietnam, Nov 2012 - Apr 2014_
 *	Supporting business trips abroad: planning, booking & reporting
 </details>
 
+<p></p>
 
 ## EDUCATION
 

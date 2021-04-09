@@ -8,7 +8,8 @@
 ## PROFESSIONAL EXPERIENCE
 
 <details>
-  <summary>SENIOR PRODUCT EXECUTIVE @ VNG CORPORATION</summary>   
+  <summary>SENIOR PRODUCT EXECUTIVE @ VNG CORPORATION</summary>
+  
 _Vietnam, Jul 2015 - Apr 2017_  
   
 * Assisting and advising the operational decision-making and planning of the most profitable department at VNG via reporting and critically analysing all VNG products’ performance in respect of revenue, profitability, etc.
@@ -17,37 +18,40 @@ _Vietnam, Jul 2015 - Apr 2017_
 </details>
 
 <details>
-  <summary>PRODUCT EXECUTIVE @ VNG CORPORATION</summary>    
+  <summary>PRODUCT EXECUTIVE @ VNG CORPORATION</summary>
+  
 _Vietnam, Nov 2012 - Jun 2015_  
   
--	Supervising promotional activities for the highest-earning game product in the market
--	Launching and being in charge of all operations (content, marketing, etc.) of the assigned product, a top-earning game in its genre
--	Conducting game data inspections: detecting and examining abnormalities, etc. to ensure the monetary reconciliation
--	Researching the local market & planning for launching new products
+*	Supervising promotional activities for the highest-earning game product in the market
+*	Launching and being in charge of all operations (content, marketing, etc.) of the assigned product, a top-earning game in its genre
+*	Conducting game data inspections: detecting and examining abnormalities, etc. to ensure the monetary reconciliation
+*	Researching the local market & planning for launching new products
 </details>
 
 <details>
   <summary>ADMINISTRATIVE SECRETARY @ VNG CORPORATION</summary>    
+
 _Vietnam, Nov 2012 - Apr 2014_  
   
--	Reporting on budget usage and working with the Finance & Accounting department in managing budgets & expenses for the department
--	Cooperating with the HR department in managing related processes
--	Supporting business trips abroad: planning, booking & reporting
+*	Reporting on budget usage and working with the Finance & Accounting department in managing budgets & expenses for the department
+*	Cooperating with the HR department in managing related processes
+*	Supporting business trips abroad: planning, booking & reporting
 </details>
+
 
 ## EDUCATION
 
 <details>
-  <summary>UNIVERSITY OF OULU</summary>  
+  <summary>UNIVERSITY OF OULU</summary>    
 
 _Finland • Sep 2018 - Jul 2020_      
 _MSc. Financial and Management Accounting, GPA: 5 out of 5_  
--	Scholarships: Oulu City Internationalisation 2019 & Tuition Fee
+*	Scholarships: Oulu City Internationalisation 2019 & Tuition Fee
 </details>
 
 <details>
   <summary>INTERNATIONAL INSTITUTE OF SOCIAL STUDIES (ISS) - ERASMUS UNIVERSITY ROTTERDAM</summary>  
-
+  
 _The Netherlands • Jan 2018 - Dec 2018_  
 _MA. Development Studies, GPA: 81 out of 100_
 -	Full grants by Erasmus+

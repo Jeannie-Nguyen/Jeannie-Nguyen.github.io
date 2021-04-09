@@ -6,6 +6,7 @@
 <p valign="middle"> <img width="33" style="margin-bottom:-8px" src="iconfinder_house_299061.png"/> Leeuwarden, the Netherlands</p>
   
 ## PROFESSIONAL EXPERIENCE
+
 <details>
   <summary>SENIOR PRODUCT EXECUTIVE @ VNG CORPORATION</summary>  
   
@@ -35,6 +36,7 @@ _Vietnam, Nov 2012 - Apr 2014_
 </details>
 
 ## EDUCATION
+
 <details>
   <summary>UNIVERSITY OF OULU</summary>  
 

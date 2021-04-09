@@ -6,7 +6,6 @@
 <p valign="middle"> <img width="33" style="margin-bottom:-8px" src="iconfinder_house_299061.png"/> Leeuwarden, the Netherlands</p>
   
 
-## PROFESSIONAL EXPERIENCE
 <details>
   <summary> ## PROFESSIONAL EXPERIENCE </summary>
   
@@ -15,7 +14,6 @@ _Vietnam, Jul 2015 - Apr 2017_
 - Assisting and advising the operational decision-making and planning of the most profitable department at VNG via reporting and critically analysing all VNG products’ performance in respect of revenue, profitability, etc.
 - Cooperating with the Finance & Accounting department in planning and allocating operating expense budgets for new products 
 -	Following up the usage of these budgets, informing involved stakeholders of the situations, and taking necessary actions timely and conformably
-</details>
 
 **PRODUCT EXECUTIVE @ VNG CORPORATION**  
 _Vietnam, Nov 2012 - Jun 2015_  
@@ -29,7 +27,7 @@ _Vietnam, Nov 2012 - Apr 2014_
 -	Reporting on budget usage and working with the Finance & Accounting department in managing budgets & expenses for the department
 -	Cooperating with the HR department in managing related processes
 -	Supporting business trips abroad: planning, booking & reporting
-
+</details>
 
 ## EDUCATION
 **UNIVERSITY OF OULU**    

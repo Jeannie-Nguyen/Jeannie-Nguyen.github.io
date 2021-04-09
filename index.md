@@ -51,6 +51,7 @@
 <details>
   <summary>INTERNATIONAL INSTITUTE OF SOCIAL STUDIES (ISS) - ERASMUS UNIVERSITY ROTTERDAM</summary>  
 <i>The Netherlands • Jan 2018 - Dec 2018</i><br><i>MA. Development Studies, GPA: 81 out of 100</i>
+  
 * Thesis: <a href="https://thesis.eur.nl/pub/46627">The macroeconomic impact of stricter capital requirements in VN</a><br>
   o	Used panel-data analyses on a wide range of macroeconomic data<br>
   o	Used VECM to estimate impulse responses of macroeconomic factors to a shock of capital adequacy ratio, and long-run relations amongst them<br>

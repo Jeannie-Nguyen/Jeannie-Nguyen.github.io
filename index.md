@@ -79,21 +79,26 @@ _MA. Development Economics, GPA: 85.5 out of 100_
 -	Solid understanding of international accounting standards (IFRS)
 </details>
 
-### **Organisational and personal skills**
+<details><summary><h3>Organisational and personal skills</h3></summary>
+
 -	Methodical organisational skills and effective stakeholder management gained through working as an assistant to a Department Head
 -	Reliable time management skills and proven capability of working under pressure
+</details>
 
-### **Digital skills**
+<details><summary><h3>Digital skill</h3></summary>
+
 -	Proficient in Microsoft Office, with extensive experience using Excel and PowerPoint
 -	Adequate skills and experience in Oracle ERP, EBS (Purchasing), and SAP
 -	Adept skills and experience with statistics software (Stata, EViews and SAS)
 -	Basic skills in Python programming
+</details>
 
-### **Language skills**
+<details><summary><h3>Language skills</h3></summary>
+
 -	English: professional
 -	Vietnamese: native 
 -	Dutch: elementary
-
+</details>
 
 ## HOBBIES
 -	Playing the piano      

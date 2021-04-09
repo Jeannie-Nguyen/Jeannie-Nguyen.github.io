@@ -69,8 +69,7 @@ _MA. Development Economics, GPA: 85.5 out of 100_
 <p></p>
 
 ## SKILLS
-<details>
-  <summary> <h2>Job-related skills</h2> </summary>
+<details><summary> <h3>Job-related skills</h3> </summary>
   
 -	Effective financial forecasting and accurate reporting
 -	Critical and analytical reviewing of budget plans

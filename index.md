@@ -5,24 +5,29 @@
 <p valign="middle"> <img width="30" style="margin-bottom:-5px" src="linkedin-logo-2430.png"/> https://www.linkedin.com/in/hanntn/</p> 
 <p valign="middle"> <img width="33" style="margin-bottom:-8px" src="iconfinder_house_299061.png"/> Leeuwarden, the Netherlands</p>
   
-
+## PROFESSIONAL EXPERIENCE
 <details>
-  <summary> ## PROFESSIONAL EXPERIENCE </summary>
+  <summary>SENIOR PRODUCT EXECUTIVE @ VNG CORPORATION</summary>  
   
-**SENIOR PRODUCT EXECUTIVE @ VNG CORPORATION**  
 _Vietnam, Jul 2015 - Apr 2017_
 - Assisting and advising the operational decision-making and planning of the most profitable department at VNG via reporting and critically analysing all VNG products’ performance in respect of revenue, profitability, etc.
 - Cooperating with the Finance & Accounting department in planning and allocating operating expense budgets for new products 
 -	Following up the usage of these budgets, informing involved stakeholders of the situations, and taking necessary actions timely and conformably
+</details>
 
-**PRODUCT EXECUTIVE @ VNG CORPORATION**  
+<details>
+    <summary>PRODUCT EXECUTIVE @ VNG CORPORATION</summary>    
+ 
 _Vietnam, Nov 2012 - Jun 2015_  
 -	Supervising promotional activities for the highest-earning game product in the market
 -	Launching and being in charge of all operations (content, marketing, etc.) of the assigned product, a top-earning game in its genre
 -	Conducting game data inspections: detecting and examining abnormalities, etc. to ensure the monetary reconciliation
 -	Researching the local market & planning for launching new products
+</details>
 
-**ADMINISTRATIVE SECRETARY @ VNG CORPORATION**  
+<details>
+  <summary>ADMINISTRATIVE SECRETARY @ VNG CORPORATION</summary>  
+ 
 _Vietnam, Nov 2012 - Apr 2014_
 -	Reporting on budget usage and working with the Finance & Accounting department in managing budgets & expenses for the department
 -	Cooperating with the HR department in managing related processes

@@ -63,7 +63,7 @@
 <p></p>
 
 ## SKILLS
-<details><summary><h3>Job-related skills</h3></summary>
+<details><summary>Job-related skills</summary>
   
 -	Effective financial forecasting and accurate reporting
 -	Critical and analytical reviewing of budget plans
@@ -73,13 +73,13 @@
 -	Solid understanding of international accounting standards (IFRS)
 </details>
 
-<details><summary><h3>Organisational and personal skills</h3></summary>
+<details><summary>Organisational and personal skills</summary>
 
 -	Methodical organisational skills and effective stakeholder management gained through working as an assistant to a Department Head
 -	Reliable time management skills and proven capability of working under pressure
 </details>
 
-<details><summary><h3>Digital skill</h3></summary>
+<details><summary>Digital skill</summary>
 
 -	Proficient in Microsoft Office, with extensive experience using Excel and PowerPoint
 -	Adequate skills and experience in Oracle ERP, EBS (Purchasing), and SAP
@@ -87,7 +87,7 @@
 -	Basic skills in Python programming
 </details>
 
-<details><summary><h3>Language skills</h3></summary>
+<details><summary>Language skills</summary>
 
 -	English: professional
 -	Vietnamese: native 

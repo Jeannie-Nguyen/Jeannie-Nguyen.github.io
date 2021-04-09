@@ -3,3 +3,6 @@ description: Hammond is flanking to GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+markdown: kramdown
+kramdown:
+  parse_block_html: true

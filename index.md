@@ -48,7 +48,7 @@
 
 <details>
   <summary>INTERNATIONAL INSTITUTE OF SOCIAL STUDIES (ISS) - ERASMUS UNIVERSITY ROTTERDAM</summary>  
-<i>The Netherlands • Jan 2018 - Dec 2018</i>&nbsp 
+<i>The Netherlands • Jan 2018 - Dec 2018</i><p></p>
 <i>MA. Development Studies, GPA: 81 out of 100</i>
   
 *	Full grants by Erasmus+

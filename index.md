@@ -104,4 +104,4 @@
 
 ## ![Branching](https://images.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt343cd4d768ced9c2/5cf15ded425980470abcaabd/wrecking-ball-screenshot-003.jpg?auto=webp)
 
-<p align="center"> This is Hammond, btw </p>  
+<p align="center"> Hammond is still working on the page </p>  

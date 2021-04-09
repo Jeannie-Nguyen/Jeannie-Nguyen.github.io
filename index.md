@@ -43,8 +43,8 @@
 <i>Finland • Sep 2018 - Jul 2020</i><br><i>MSc. Financial and Management Accounting, GPA: 5 out of 5</i>  
   
 * Thesis: <a href="http://jultika.oulu.fi/Record/nbnfioulu-202008212847">The impacts of stricter bank supervisions and regulations on external audit in the European banking system</a></p>
-  o	Used panel-data analyses on various types of financial data from banks
-  o	Used Difference-in-Differences estimations to discover the impact of SSM 
+  ** Used panel-data analyses on various types of financial data from banks
+  ** Used Difference-in-Differences estimations to discover the impact of SSM 
 
 *	Scholarships: Oulu City Internationalisation 2019 & Tuition Fee
 </details>

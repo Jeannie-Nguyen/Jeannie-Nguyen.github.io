@@ -13,7 +13,8 @@ _Vietnam, Jul 2015 - Apr 2017_
   
 * Assisting and advising the operational decision-making and planning of the most profitable department at VNG via reporting and critically analysing all VNG products’ performance in respect of revenue, profitability, etc.
 * Cooperating with the Finance & Accounting department in planning and allocating operating expense budgets for new products 
-*	Following up the usage of these budgets, informing involved stakeholders of the situations, and taking necessary actions timely and conformably</details>
+*	Following up the usage of these budgets, informing involved stakeholders of the situations, and taking necessary actions timely and conformably
+</details>
 
 <details>
   <summary>PRODUCT EXECUTIVE @ VNG CORPORATION</summary>    

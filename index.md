@@ -66,14 +66,19 @@ _MA. Development Economics, GPA: 85.5 out of 100_
 -	Highest GPA class 2017-2018 & Best Master's Thesis class 2018
 </details>
 
+
 ## SKILLS
-### **Job-related skills**
+
+<details>
+  <summary> ### Job-related skills</summary>  
+  
 -	Effective financial forecasting and accurate reporting
 -	Critical and analytical reviewing of budget plans
 -	Convincing and comprehensive presentations of financial analyses
 -	Precise and efficient administrative skills
 -	Proven project management skills
 -	Solid understanding of international accounting standards (IFRS)
+</details>
 
 ### **Organisational and personal skills**
 -	Methodical organisational skills and effective stakeholder management gained through working as an assistant to a Department Head

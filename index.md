@@ -7,7 +7,8 @@
   
 ## PROFESSIONAL EXPERIENCE
 
-<details><summary>SENIOR PRODUCT EXECUTIVE @ VNG CORPORATION</summary>   
+<details>
+  <summary>SENIOR PRODUCT EXECUTIVE @ VNG CORPORATION</summary>   
 _Vietnam, Jul 2015 - Apr 2017_  
   
 * Assisting and advising the operational decision-making and planning of the most profitable department at VNG via reporting and critically analysing all VNG products’ performance in respect of revenue, profitability, etc.

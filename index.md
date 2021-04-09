@@ -55,8 +55,7 @@
 
 <details>
   <summary>DOUBLE DEGREE PROGRAM - ISS & UNIVERSITY OF ECONOMICS HO CHI MINH CITY (UEH, ACCREDITED BY FIBAA)</summary>  
-<i>Vietnam • Nov 2016 - Dec 2018</i>&nbsp  
-<i>MA. Development Economics, GPA: 85.5 out of 10</i>
+<i>Vietnam • Nov 2016 - Dec 2018</i><br><i>MA. Development Economics, GPA: 85.5 out of 10</i>
   
 *	Highest GPA class 2017-2018 & Best Master's Thesis class 2018
 </details>

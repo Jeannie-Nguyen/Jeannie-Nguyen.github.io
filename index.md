@@ -41,7 +41,6 @@ _Vietnam, Nov 2012 - Apr 2014_
 <p></p>
 
 ## EDUCATION
-
 <details>
   <summary>UNIVERSITY OF OULU</summary>    
 
@@ -67,11 +66,11 @@ _MA. Development Economics, GPA: 85.5 out of 100_
 -	Highest GPA class 2017-2018 & Best Master's Thesis class 2018
 </details>
 
+<p></p>
 
 ## SKILLS
-
 <details>
-  <summary> ### Job-related skills</summary>  
+  <summary> <h2>Job-related skills</h2> </summary>
   
 -	Effective financial forecasting and accurate reporting
 -	Critical and analytical reviewing of budget plans

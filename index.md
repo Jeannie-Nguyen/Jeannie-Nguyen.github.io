@@ -18,8 +18,7 @@
 
 <details>
   <summary>PRODUCT EXECUTIVE @ VNG CORPORATION</summary>
-  
-_Vietnam, Nov 2012 - Jun 2015_  
+<i>Vietnam, Nov 2012 - Jun 2015</i> 
   
 *	Supervising promotional activities for the highest-earning game product in the market
 *	Launching and being in charge of all operations (content, marketing, etc.) of the assigned product, a top-earning game in its genre
@@ -29,8 +28,7 @@ _Vietnam, Nov 2012 - Jun 2015_
 
 <details>
   <summary>ADMINISTRATIVE SECRETARY @ VNG CORPORATION</summary>    
-
-_Vietnam, Nov 2012 - Apr 2014_  
+<i>Vietnam, Nov 2012 - Apr 2014</i>
   
 *	Reporting on budget usage and working with the Finance & Accounting department in managing budgets & expenses for the department
 *	Cooperating with the HR department in managing related processes
@@ -42,26 +40,23 @@ _Vietnam, Nov 2012 - Apr 2014_
 ## EDUCATION
 <details>
   <summary>UNIVERSITY OF OULU</summary>    
-
-_Finland • Sep 2018 - Jul 2020_      
-_MSc. Financial and Management Accounting, GPA: 5 out of 5_  
+<i>Finland • Sep 2018 - Jul 2020</i>      
+<i>MSc. Financial and Management Accounting, GPA: 5 out of 5</i> 
 *	Scholarships: Oulu City Internationalisation 2019 & Tuition Fee
 </details>
 
 <details>
   <summary>INTERNATIONAL INSTITUTE OF SOCIAL STUDIES (ISS) - ERASMUS UNIVERSITY ROTTERDAM</summary>  
-  
-_The Netherlands • Jan 2018 - Dec 2018_  
-_MA. Development Studies, GPA: 81 out of 100_
+<i>The Netherlands • Jan 2018 - Dec 2018</i> 
+<i>MA. Development Studies, GPA: 81 out of 100</i>
 -	Full grants by Erasmus+
 -	Contributing one essay to best essays compendium (2017/18)
 </details>
 
 <details>
   <summary>DOUBLE DEGREE PROGRAM - ISS & UNIVERSITY OF ECONOMICS HO CHI MINH CITY (UEH, ACCREDITED BY FIBAA)</summary>  
- 
-_Vietnam • Nov 2016 - Dec 2018_  
-_MA. Development Economics, GPA: 85.5 out of 100_
+<i>Vietnam • Nov 2016 - Dec 2018</i>  
+<i>MA. Development Economics, GPA: 85.5 out of 10</i>
 -	Highest GPA class 2017-2018 & Best Master's Thesis class 2018
 </details>
 

@@ -16,7 +16,8 @@ _Vietnam, Jul 2015 - Apr 2017_
 *	Following up the usage of these budgets, informing involved stakeholders of the situations, and taking necessary actions timely and conformably
 </details>
 
-<details><summary>PRODUCT EXECUTIVE @ VNG CORPORATION</summary>    
+<details>
+  <summary>PRODUCT EXECUTIVE @ VNG CORPORATION</summary>    
 _Vietnam, Nov 2012 - Jun 2015_  
   
 -	Supervising promotional activities for the highest-earning game product in the market
@@ -25,7 +26,8 @@ _Vietnam, Nov 2012 - Jun 2015_
 -	Researching the local market & planning for launching new products
 </details>
 
-<details><summary>ADMINISTRATIVE SECRETARY @ VNG CORPORATION</summary>    
+<details>
+  <summary>ADMINISTRATIVE SECRETARY @ VNG CORPORATION</summary>    
 _Vietnam, Nov 2012 - Apr 2014_  
   
 -	Reporting on budget usage and working with the Finance & Accounting department in managing budgets & expenses for the department

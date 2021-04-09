@@ -63,7 +63,7 @@
 <p></p>
 
 ## SKILLS
-<details><summary> <h3>Job-related skills</h3> </summary>
+<details><summary><h3>Job-related skills</h3></summary>
   
 -	Effective financial forecasting and accurate reporting
 -	Critical and analytical reviewing of budget plans
